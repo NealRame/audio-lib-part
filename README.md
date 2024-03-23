@@ -30,7 +30,7 @@ audio-lib-part [OPTIONS] <THRESHOLD> <BASE>
 
 #### THRESHOLD
 
-Le seuil en LUFS (db). La valeur est automatiquement converti en valeur
+Le seuil en LUFS. La valeur est automatiquement converti en valeur
 négative.
 
 Par exemple une valeur de _14_ est transformée en _-14_.
